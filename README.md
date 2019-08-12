@@ -38,6 +38,8 @@ Key points that define my leadership style
 - I value giving info early over giving info at last-minute
 - I value over-communication and transparency
 
+My MBTI (Myers-Briggs Type Indicator) is ISFJ, and [here is](https://www.16personalities.com/isfjs-at-work) the relevant section that applies in workplaces.
+
 ## Trust
 
 I will always fill up the trust bank to the fullest and work backward. What that means is that I will place my trust in you blindly, but if you repeatedly make the same mistakes again and again after being given feedback then you will slowly drain that trust bank.
