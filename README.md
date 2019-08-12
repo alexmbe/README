@@ -31,11 +31,11 @@ Key points that define my leadership style
 - I value working smarter over working harder
 - I value autonomy over micro-management
 - I value taking ownership of work and doing what you say
+- I value holding yourself and your team to high standards
 - I value a growth mindset
 - I value experimentation and taking risks over not making mistakes
 - I value direct and honest feedback
 - I value giving info early over giving info at last-minute
-- I value holding yourself and your team to high standards
 - I value over-communication and transparency
 
 ## Trust
