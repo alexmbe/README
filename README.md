@@ -49,7 +49,7 @@ I will always fill up the trust bank to the fullest and work backward. What that
 - Engage, retain, and grow world-class talent
 - Serve customers and the business by building products that delight users
 - Responsible for long term product health and vision
-- Provide business context and create roundabouts
+- Provide as much business context as possible
 - Give feedback and be unfailingly kind
 
 ## My management style
