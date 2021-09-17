@@ -4,7 +4,7 @@ This document is work in progress, it's creation has helped me identify and refi
 
 - Husband, father to a beautiful girl
 - Parent of two basenji dogs and a russian blue cat
-- Burningman camp of 100+ co-organizer and builder for the past 8 years
+- Burningman camp of 100+ co-organizer and builder
   - [https://www.youtube.com/watch?v=O-9QWqHwQgA](https://www.youtube.com/watch?v=O-9QWqHwQgA)
 - Community builder
 -
@@ -13,6 +13,7 @@ This document is work in progress, it's creation has helped me identify and refi
 -
   - [https://soundcloud.com/alexwindstorm/tracks](https://soundcloud.com/alexwindstorm/tracks)
 - Russian and Italian speaker
+- Patent holder for Continuous software deployment https://patents.google.com/patent/US11030071B2/
 - Speed skier, hiker and runner, more of a runner these days
 
 ## Professional
