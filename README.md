@@ -13,13 +13,14 @@ This document is work in progress, it's creation has helped me identify and refi
 -
   - [https://soundcloud.com/alexwindstorm/tracks](https://soundcloud.com/alexwindstorm/tracks)
 - Russian and Italian speaker
-- Patent holder for Continuous software deployment
-  - [https://patents.google.com/patent/US11030071B2/](https://patents.google.com/patent/US11030071B2/)
 - Speed skier, hiker and runner, more of a runner these days
 
 ## Professional
 
 I started my career as a Software Engineer, then progressed to leadership roles in Engineering and Product. My professional focus is on building products that delight users and solve internet scale and software delivery challenges in a safe and secure way. Over the years I kept refining my leadership approach, but the foundation of it - largely due to my personal values has not changed. See [my LinkedIn](https://www.linkedin.com/in/alexbello/) for more details about my professional background.
+
+- Patent holder for Continuous software deployment
+  - [https://patents.google.com/patent/US11030071B2/](https://patents.google.com/patent/US11030071B2/)
 
 ## My values 
 
