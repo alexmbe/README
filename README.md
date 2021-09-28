@@ -17,7 +17,7 @@ This document is work in progress, it's creation has helped me identify and refi
 
 ## Professional
 
-I started my career as a Software Engineer, then progressed to leadership roles in Engineering and Product. My professional focus is on building products that delight users and solve internet scale and software delivery challenges in a safe and secure way. Over the years I kept refining my leadership approach, but the foundation of it - largely due to my personal values has not changed. See [my LinkedIn](https://www.linkedin.com/in/alexbello/) for more details about my professional background.
+I started my career as a Software Engineer, then progressed to leadership roles in Engineering and Product. My professional focus is on building products that make developers and security practitions lifes easier. Over the years I kept refining my leadership approach, but the foundation of it - largely due to my personal values has not changed. See [my LinkedIn](https://www.linkedin.com/in/alexbello/) for more details about my professional background.
 
 - Patent holder for Continuous software deployment
   - [https://patents.google.com/patent/US11030071B2/](https://patents.google.com/patent/US11030071B2/)
