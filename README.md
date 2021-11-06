@@ -5,9 +5,9 @@ This document is work in progress, it's creation has helped me identify and refi
 - Husband, father to a beautiful girl
 - Parent of two basenji dogs and a russian blue cat
 - Community builder and organizer
-  - Dogs[https://basenjiforums.com](https://basenjiforums.com/)
-  - Opensource [https://www.meetup.com/spinnaker](https://www.meetup.com/spinnaker)
-  - Burningman [https://www.youtube.com/watch?v=O-9QWqHwQgA](https://www.youtube.com/watch?v=O-9QWqHwQgA)
+  - Dogs: [https://basenjiforums.com](https://basenjiforums.com/)
+  - Opensource: [https://www.meetup.com/spinnaker](https://www.meetup.com/spinnaker)
+  - Burningman: [https://www.youtube.com/watch?v=O-9QWqHwQgA](https://www.youtube.com/watch?v=O-9QWqHwQgA)
 - Electronic music affecionado
   - [https://soundcloud.com/alexwindstorm/tracks](https://soundcloud.com/alexwindstorm/tracks)
 - Russian and Italian speaker
