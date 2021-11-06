@@ -15,7 +15,7 @@ This document is work in progress, it's creation has helped me identify and refi
 
 ## Professional
 
-I learned how to program in Logo and BASIC at the age of 7 and eventually got my first job as a Software Engineer building ecommerce shops. Then progressed to building more complex software and leadership roles in Engineering and Product. My core domain expertise and interest is in developer-centric platforms, security, high-scale distributred systems, and open-source. Over the years I kept refining my leadership approach, but the foundation of it - largely due to my personal values has not changed. See [my LinkedIn](https://www.linkedin.com/in/alexbello/) for more details about my professional background.
+I learned how to program in Logo and BASIC at the age of 7 and eventually got my first job as a Software Engineer building ecommerce software. Then progressed to building more complex software and leadership roles in Engineering and Product. My core domain expertise and interest is in developer-centric platforms, security, high-scale distributed systems, and open-source. Over the years I kept refining my leadership approach, but the foundation of it - largely due to my personal values has not changed. See [my LinkedIn](https://www.linkedin.com/in/alexbello/) for more details about my professional background.
 
 - Patent holder for Continuous software deployment
   - [https://patents.google.com/patent/US11030071B2/](https://patents.google.com/patent/US11030071B2/)
