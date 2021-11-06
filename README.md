@@ -4,11 +4,11 @@ This document is work in progress, it's creation has helped me identify and refi
 
 - Husband, father to a beautiful girl
 - Parent of two basenji dogs and a russian blue cat
-- Burningman camp of 100+ co-organizer and builder
-  - [https://www.youtube.com/watch?v=O-9QWqHwQgA](https://www.youtube.com/watch?v=O-9QWqHwQgA)
 - Community builder
 -
   - [https://basenjiforums.com](https://basenjiforums.com/), [https://www.meetup.com/spinnaker](https://www.meetup.com/spinnaker)
+- Burningman camp of 100+ co-organizer and builder
+  - [https://www.youtube.com/watch?v=O-9QWqHwQgA](https://www.youtube.com/watch?v=O-9QWqHwQgA)
 - Electronic music maker
 -
   - [https://soundcloud.com/alexwindstorm/tracks](https://soundcloud.com/alexwindstorm/tracks)
