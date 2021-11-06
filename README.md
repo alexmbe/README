@@ -7,7 +7,7 @@ This document is work in progress, it's creation has helped me identify and refi
 - Community builder
 -
   - [https://basenjiforums.com](https://basenjiforums.com/), [https://www.meetup.com/spinnaker](https://www.meetup.com/spinnaker)
-- Burningman camp of 100+ co-organizer and builder
+- Burningman co-organizer and builder
   - [https://www.youtube.com/watch?v=O-9QWqHwQgA](https://www.youtube.com/watch?v=O-9QWqHwQgA)
 - Electronic music maker
 -
