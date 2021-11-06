@@ -6,9 +6,9 @@ This document is work in progress, it's creation has helped me identify and refi
 - Parent of two basenji dogs and a russian blue cat
 - Community builder
 -
-  - [https://basenjiforums.com](https://basenjiforums.com/), [https://www.meetup.com/spinnaker](https://www.meetup.com/spinnaker)
+ - [https://basenjiforums.com](https://basenjiforums.com/), [https://www.meetup.com/spinnaker](https://www.meetup.com/spinnaker)
 - Burningman builder and co-organizer
-  - [https://www.youtube.com/watch?v=O-9QWqHwQgA](https://www.youtube.com/watch?v=O-9QWqHwQgA)
+ - [https://www.youtube.com/watch?v=O-9QWqHwQgA](https://www.youtube.com/watch?v=O-9QWqHwQgA)
 - Electronic music affecionado
 -
   - [https://soundcloud.com/alexwindstorm/tracks](https://soundcloud.com/alexwindstorm/tracks)
