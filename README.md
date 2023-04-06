@@ -3,7 +3,7 @@ This document is work in progress, it's creation has helped me identify and refi
 ## Personal
 
 - Husband, father to a beautiful girl
-- Parent of two basenji dogs and a russian blue cat
+- Parent of a basenji, doberman dog and a russian blue cat
 - Community builder and organizer
   - Dogs: [https://basenjiforums.com](https://basenjiforums.com/)
   - Opensource: [https://www.meetup.com/spinnaker](https://www.meetup.com/spinnaker)
