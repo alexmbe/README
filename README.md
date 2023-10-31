@@ -10,7 +10,6 @@ This document is work in progress, it's creation has helped me identify and refi
   - Burningman: [https://www.youtube.com/watch?v=O-9QWqHwQgA](https://www.youtube.com/watch?v=O-9QWqHwQgA)
 - Electronic music affecionado
   - [https://soundcloud.com/alexwindstorm/tracks](https://soundcloud.com/alexwindstorm/tracks)
-- Russian and Italian speaker
 - Speed skier, hiker and runner, more of a runner these days
 
 ## Professional
