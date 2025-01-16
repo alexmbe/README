@@ -3,11 +3,8 @@ This document is work in progress, it's creation has helped me identify and refi
 ## Personal
 
 - Husband, father to a beautiful girl
-- Parent of a basenji, doberman dog and a blue cat
-- Community builder and organizer
-  - Dogs: [https://basenjiforums.com](https://basenjiforums.com/)
-  - Opensource: [https://www.meetup.com/spinnaker](https://www.meetup.com/spinnaker)
-  - Burningman: [https://www.youtube.com/watch?v=O-9QWqHwQgA](https://www.youtube.com/watch?v=O-9QWqHwQgA)
+- Parent of a doberman dog and a blue cat
+- Community builder and organizer ([https://basenjiforums.com](dogs), [https://www.meetup.com/spinnaker](opensource), burningman)
 - Electronic music affecionado
   - [https://soundcloud.com/alexwindstorm/tracks](https://soundcloud.com/alexwindstorm/tracks)
 - Speed skier, hiker and runner, more of a runner these days
